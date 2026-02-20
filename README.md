@@ -1,4 +1,8 @@
-## Hi there 👋
+i am deep learning
+
+currently:
+- working on motion artifact correction in fNIRS data
+- doing side quests
 
 <!--
 **itsjustdannyb/itsjustdannyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
