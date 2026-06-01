@@ -1,8 +1,9 @@
 i am deep learning
 
 currently:
-- working on motion artifact correction in fNIRS data
-- doing side quests
+- working on research in motion artifact correction in fNIRS data
+- learning reinforcement learning
+- doing side quests (jax, explainability, etc.)
 
 <!--
 **itsjustdannyb/itsjustdannyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
